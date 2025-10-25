@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+joblib
+tqdm
+imbalanced-learn
+torch
+torchvision
+pyyaml
+fastapi
+uvicorn
+python-multipart
+pyshark            # optional: packet capture via Python
